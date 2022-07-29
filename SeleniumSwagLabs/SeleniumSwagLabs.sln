@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumSwagLabs", "SeleniumSwagLabs\SeleniumSwagLabs.csproj", "{1CDD7E33-91FA-4E84-BFF4-A818581E9DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CDD7E33-91FA-4E84-BFF4-A818581E9DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CDD7E33-91FA-4E84-BFF4-A818581E9DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CDD7E33-91FA-4E84-BFF4-A818581E9DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CDD7E33-91FA-4E84-BFF4-A818581E9DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {722CA125-7679-4879-B084-39E99AFF5EF1}
+	EndGlobalSection
+EndGlobal
